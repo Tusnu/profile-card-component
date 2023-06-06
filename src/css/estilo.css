@@ -14,7 +14,7 @@ body {
     min-height: 100vh;
     background-image: url(/images/bg-pattern-top.svg), url(/images/bg-pattern-bottom.svg);
     background-repeat: no-repeat, no-repeat;
-    background-position: -15rem -25rem, 5rem 3rem;
+    background-position: -15rem -25rem, 50rem 30rem;
     background-color: hsl(185, 75%, 39%);
 }
 
